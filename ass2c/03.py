@@ -1,0 +1,10 @@
+x=6.74
+print(id(x))
+y=490.4
+print(id(y))
+z=6.74
+print(id(x))
+print(id(y))
+print(id(z))
+x=490.4
+print(id(x))
